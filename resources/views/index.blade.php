@@ -26,7 +26,7 @@
 
         <h3>Asignar Sacramento</h3>
         <div class="card-container">
-            <a href="#" class="card">
+            <a href="/bautismo/nuevo" class="card">
                 <h3>💧 Bautismo</h3>
                 <p>Registrar acta y padrinos</p>
             </a>
