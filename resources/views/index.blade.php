@@ -22,7 +22,7 @@
     <div class="content">
         <h1>Panel de Control</h1>
         
-        <a href="/registrar" class="btn-main">1. REGISTRAR NUEVA PERSONA</a>
+        <a href="/registrar" class="btn-main">REGISTRAR NUEVA PERSONA</a>
 
         <h3>Asignar Sacramento</h3>
         <div class="card-container">
